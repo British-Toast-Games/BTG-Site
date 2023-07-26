@@ -15,7 +15,12 @@ module.exports = {
       colors: {
         'midnight': {
           100: '#ebf1ff',
-          950: '#090f21',
+          300: '#8fb2ff',
+          900: '#090f21',
+          950: '#050812',
+        },
+        'hotpink': {
+          600: '#d41d6d'
         }
       },
       fontFamily: {
