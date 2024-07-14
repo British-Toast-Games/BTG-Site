@@ -20,7 +20,7 @@ export default function Home() {
       </div>
       <div className="bg-midnight-900">
         <h1 className="text-midnight-100 mx-auto font-IBM font-bold text-5xl py-20 text-center">About Us</h1>
-        <p className="font-IBM text-midnight-100 container max-w-5xl lg:w-1/2 w-2/3 mx-auto pb-20 text-2xl"><strong>British Toast Games</strong> is a small independent development team based in California. We are currently working on our first official release: <strong>Two Words: I'm Burger</strong>. We are hoping to finish the game within the next <strong>6-8 months</strong> and plan to have beta versions out even sooner. Glimpambanob glibbyplort glinkybosche glish glosh glispurn. Glabello glibbyboop gleebop gleeboob glamanorsche.</p>
+        <p className="font-IBM text-midnight-100 container max-w-5xl lg:w-1/2 w-2/3 mx-auto pb-20 text-2xl"><strong>British Toast Games</strong> is a small independent development team based in California. We are currently working on our first official release: <strong>Two Words: I&apos;m Burger</strong>. We are hoping to finish the game within the next <strong>6-8 months</strong> and plan to have beta versions out even sooner. Glimpambanob glibbyplort glinkybosche glish glosh glispurn. Glabello glibbyboop gleebop gleeboob glamanorsche.</p>
       </div>
       <Footer/>
     </div>

@@ -14,7 +14,7 @@ export default function Footer() {
                     <h1 className="font-IBM text-midnight-100 text-xl font-bold pb-5">Games</h1>
                     <Link href="/" className="group text-midnight-100 font-IBM text-lg transition-all duration-300 ease-in-out pb-2">
                         <span className="bg-left-bottom bg-gradient-to-r from-hotpink-600 to-hotpink-600 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out motion-reduce:transition-none">
-                            Two Words: I'm Burger
+                            Two Words: I&apos;m Burger
                         </span>
                     </Link>
                 </div>
